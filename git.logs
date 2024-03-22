@@ -11,3 +11,5 @@ hint: 	git branch -m <name>
 Initialized empty Git repository in /home/centos/shri/git_demo/first_demo/.git/
 
 ------------ adding file to staging area ----------------
+[master 49e3710] files added to git local repo
+ 1 file changed, 1 insertion(+)

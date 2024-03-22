@@ -9,4 +9,5 @@ hint: 'development'. The just-created branch can be renamed via this command:
 hint: 
 hint: 	git branch -m <name>
 Initialized empty Git repository in /home/centos/shri/git_demo/first_demo/.git/
+
 ------------ adding file to staging area ----------------
